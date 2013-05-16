@@ -1,11 +1,9 @@
 {% include 'partials/header.html' %}
         <section class="main">
             <div class="wrapper">
-                <h1>About Me</h1>
+                <h1>{{ page.page_title}}</h1>
                 <div class="teasers">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, doloremque nisi sunt ullam minima eos nam unde distinctio dolorem illum temporibus blanditiis animi saepe minus nobis dignissimos voluptas quia perspiciatis.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, doloremque nisi sunt ullam minima eos nam unde distinctio dolorem illum temporibus blanditiis animi saepe minus nobis dignissimos voluptas quia perspiciatis.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, doloremque nisi sunt ullam minima eos nam unde distinctio dolorem illum temporibus blanditiis animi saepe minus nobis dignissimos voluptas quia perspiciatis.</p>
+                    {{ page.content }}
                 </div> <!-- /.teasers -->
 
                 <aside class="widget archives">

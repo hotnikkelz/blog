@@ -13,9 +13,9 @@
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link rel="stylesheet" href=".//css/normalize.css">
-        <link rel="stylesheet/less" type="text/css" href=".//css/style.less">
-        <script src=".//js/less.js"></script>
+        <link rel="stylesheet" href="../..//css/normalize.css">
+        <link rel="stylesheet/less" type="text/css" href="../..//css/style.less">
+        <script src="../..//js/less.js"></script>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
@@ -26,16 +26,16 @@
         <!-- Add your site or application content here -->
         <header>
             <div class="wrapper">
-                <h1 class="site-logo"><a href="./">Droidlet</a></h1>
+                <h1 class="site-logo"><a href="../../">Droidlet</a></h1>
                 <h2 class="tagline">Android Frustrations and Tips</h2>
             </div>
         </header>        <section class="main clearfix">
             <div class="wrapper">
                 <div class="single post">
                     <article>
-                        <h1 class="post-title">Android and Why its better than iOS</h1>
+                        <h1 class="post-title">ClockWorkMode and Recovery</h1>
 
-                        <p class="meta">by <a href="#">Akini James</a> on <a href="#">May 6 2013</a> with <a href="">4 comments</a></p>
+                        <p class="meta">by <a href="#">Akini James</a> on <a href="#">May 5 2013</a> with <a href="">4 comments</a></p>
 
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, rem, ducimus sunt laboriosam quod temporibus maiores sint maxime natus eligendi adipisci nobis nihil voluptatum? Unde, maiores ullam omnis reprehenderit perferendis.</p>
 
@@ -49,8 +49,8 @@
                     <hr>
                     <div class="post-nav">
                     
-                                                      <span class="link_prev">&larr; <a href="./?/articles/next-article/">ClockWorkMode and Recovery</a></span>
-                                <span class="link_next"><a href=""></a> &rarr;</span>
+                                                      <span class="link_prev">&larr; <a href="../../articles/titanium-app/">Titanium Backup: A must have app</a></span>
+                                <span class="link_next"><a href="../../articles/android/">Android and Why its better than iOS</a> &rarr;</span>
 
                                                 
                     </div>
@@ -61,9 +61,9 @@
         <h2 class="widget__heading">Archives</h2>
       	<nav class="widget__archives">
 	    <ul>
-	    	        <li><a href="./?/articles/titanium-app/">Titanium Backup: A must have app</a></li>
-	    	        <li><a href="./?/articles/next-article/">ClockWorkMode and Recovery</a></li>
-	    	        <li><a href="./?/articles/android/">Android and Why its better than iOS</a></li>
+	    	        <li><a href="../../articles/titanium-app/">Titanium Backup: A must have app</a></li>
+	    	        <li><a href="../../articles/next-article/">ClockWorkMode and Recovery</a></li>
+	    	        <li><a href="../../articles/android/">Android and Why its better than iOS</a></li>
 	    	    </ul>
 	</nav>
       </div>
