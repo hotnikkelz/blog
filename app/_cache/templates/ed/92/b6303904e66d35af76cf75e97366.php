@@ -22,8 +22,10 @@ class __TwigTemplate_ed92b6303904e66d35af76cf75e97366 extends Twig_Template
         echo $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "page_title");
         echo "</h1>
 
-                        <p class=\"meta\">by <a href=\"#\">";
+                        <p class=\"meta\">by <a href=\"";
         // line 8
+        echo $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "root_path");
+        echo "/about\">";
         echo $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "author");
         echo "</a> on <a href=\"#\">";
         echo $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "date");
