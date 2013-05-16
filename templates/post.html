@@ -1,0 +1,33 @@
+{% include 'partials/header.html' %}
+        <section class="main clearfix">
+            <div class="wrapper">
+                <div class="single post">
+                    <article>
+                        <h1 class="post-title">{{ page.page_title }}</h1>
+
+                        <p class="meta">by <a href="#">{{ page.author }}</a> on <a href="#">{{ page.date }}</a> with <a href="">4 comments</a></p>
+
+                        {{ page.content }}
+                        
+                        
+                    </article>
+                    <hr>
+                    <div class="post-nav">
+                    
+                        {% if page.siblings %}
+                            {% include 'partials/link_prev.html' %}
+                            {% include 'partials/link_next.html' %}
+                        {% endif %}
+                        
+                    </div>
+                </div>
+
+                {% include 'partials/sidebar.html' %}
+            </div>
+        </section>
+        
+
+        
+        
+
+{% include 'partials/footer.html' %}

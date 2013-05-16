@@ -1,0 +1,4 @@
+{% for sibling in page.next_sibling %}
+    <span class="link_next"><a href="{{ sibling.url }}">{{ sibling.page_title }}</a> &rarr;</span>
+{% endfor %}
+

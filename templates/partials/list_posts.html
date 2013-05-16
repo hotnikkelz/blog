@@ -1,0 +1,18 @@
+{% for child in page.root %}
+  {% if child.children %}
+ 
+    {% for child in child.children|reverse %}
+<article>
+    <h1 class="post-title"><a href="{{ child.url }}">{{ child.page_title }}</a></h1>
+
+    <p class="meta">by <a href="#">{{child.author}}</a> on <a href="#">{{child.date}}</a> with <a href="{{ child.url }}">4 comments</a></p>
+
+    {{ child.intro }}
+    <a href="{{ child.url }}" class="readmore">Read Article →</a>
+    
+</article>
+<hr>
+	{% endfor %}
+ 
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,12 @@
+<h2 class="widget__heading">Archives</h2>
+{% for child in page.root %}
+  {% if child.children %}
+  	<nav class="widget__archives">
+	    <ul>
+	    {% for child in child.children %}
+	        <li><a href="{{ child.url }}">{{ child.page_title }}</a></li>
+	    {% endfor %}
+	    </ul>
+	</nav>
+  {% endif %}
+{% endfor %}
