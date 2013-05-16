@@ -34,35 +34,35 @@
                 <div class="teasers">
                          
     <article>
-    <h1 class="post-title"><a href="./articles/android/">Android and Why its better than iOS</a></h1>
+    <h1 class="post-title"><a href="./?/articles/android/">Android and Why its better than iOS</a></h1>
 
-    <p class="meta">by <a href="#">Akini James</a> on <a href="#">May 6 2013</a> with <a href="./articles/android/">4 comments</a></p>
+    <p class="meta">by <a href="#">Akini James</a> on <a href="#">May 6 2013</a> with <a href="./?/articles/android/">4 comments</a></p>
 
     <p>You can see how I lived before I met you. When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film.</p>
 
-    <a href="./articles/android/" class="readmore">Read Article →</a>
+    <a href="./?/articles/android/" class="readmore">Read Article →</a>
     
 </article>
 <hr>
 	<article>
-    <h1 class="post-title"><a href="./articles/next-article/">ClockWorkMode and Recovery</a></h1>
+    <h1 class="post-title"><a href="./?/articles/next-article/">ClockWorkMode and Recovery</a></h1>
 
-    <p class="meta">by <a href="#">Akini James</a> on <a href="#">May 5 2013</a> with <a href="./articles/next-article/">4 comments</a></p>
+    <p class="meta">by <a href="#">Akini James</a> on <a href="#">May 5 2013</a> with <a href="./?/articles/next-article/">4 comments</a></p>
 
     <p>You can see how I lived before I met you. When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film.</p>
 
-    <a href="./articles/next-article/" class="readmore">Read Article →</a>
+    <a href="./?/articles/next-article/" class="readmore">Read Article →</a>
     
 </article>
 <hr>
 	<article>
-    <h1 class="post-title"><a href="./articles/titanium-app/">Titanium Backup: A must have app</a></h1>
+    <h1 class="post-title"><a href="./?/articles/titanium-app/">Titanium Backup: A must have app</a></h1>
 
-    <p class="meta">by <a href="#">Akini James</a> on <a href="#">May 4 2013</a> with <a href="./articles/titanium-app/">4 comments</a></p>
+    <p class="meta">by <a href="#">Akini James</a> on <a href="#">May 4 2013</a> with <a href="./?/articles/titanium-app/">4 comments</a></p>
 
     <p>You can see how I lived before I met you. When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film.</p>
 
-    <a href="./articles/titanium-app/" class="readmore">Read Article →</a>
+    <a href="./?/articles/titanium-app/" class="readmore">Read Article →</a>
     
 </article>
 <hr>
@@ -74,9 +74,9 @@
         <h2 class="widget__heading">Archives</h2>
       	<nav class="widget__archives">
 	    <ul>
-	    	        <li><a href="./articles/titanium-app/">Titanium Backup: A must have app</a></li>
-	    	        <li><a href="./articles/next-article/">ClockWorkMode and Recovery</a></li>
-	    	        <li><a href="./articles/android/">Android and Why its better than iOS</a></li>
+	    	        <li><a href="./?/articles/titanium-app/">Titanium Backup: A must have app</a></li>
+	    	        <li><a href="./?/articles/next-article/">ClockWorkMode and Recovery</a></li>
+	    	        <li><a href="./?/articles/android/">Android and Why its better than iOS</a></li>
 	    	    </ul>
 	</nav>
       </div>
