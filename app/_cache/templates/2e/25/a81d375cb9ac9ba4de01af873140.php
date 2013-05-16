@@ -60,7 +60,7 @@ class __TwigTemplate_2e25a81d375cb9ac9ba4de01af873140 extends Twig_Template
                 <h1 class=\"site-logo\"><a href=\"";
         // line 29
         echo $this->getAttribute((isset($context["page"]) ? $context["page"] : null), "root_path");
-        echo "\">Nooblet's Blog</a></h1>
+        echo "\">Droidlet</a></h1>
                 <h2 class=\"tagline\">Android Frustrations and Tips</h2>
             </div>
         </header>";
